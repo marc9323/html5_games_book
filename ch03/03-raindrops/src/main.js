@@ -1,7 +1,7 @@
 const canvas = document.querySelector("#board canvas");
 const ctx = canvas.getContext("2d");
 const { width: w, height: h } = canvas;
-
+// comment
 // Game setup code
 ctx.fillStyle = "#000";
 ctx.globalAlpha = 0.02;
